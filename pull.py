@@ -1,2 +1,2 @@
 print ("pulled success")
-print ("hd")
+hello # type: ignore
